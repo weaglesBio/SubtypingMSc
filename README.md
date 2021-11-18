@@ -1,4 +1,4 @@
-# SubtypingMSc
+# SubtypingMSc v1.0.0
 Code for prostate subtyping MSc project with David Wedge
 
 ARBS contains minor change from version provided by Atef Sahli of the University of Manchester.
